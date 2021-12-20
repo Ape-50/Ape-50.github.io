@@ -1,0 +1,41 @@
+body {
+  color: black;
+  background-color: Orange; 
+     
+    ;
+  font-family: Lato, Arial;
+  text-align: left;
+}
+h2 {color: red;
+text-align: center;
+}
+p {
+  font-size:12pt;
+}
+
+li {
+  padding-bottom: 5px;
+  text-align: left;
+  font-size:10pt;
+}
+
+h1 {
+  color: Black;
+  text-align: center;
+}
+
+h2 {
+  padding-top: 50px;
+}
+
+.myClass1 {
+  width: 90%;
+  text-sligen: center;
+  front-aligen: 40px;
+  
+}
+
+.myClass2 {
+ text-sligen: center;
+ front aligen: 50px;
+}
